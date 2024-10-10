@@ -1,6 +1,6 @@
-// stack.h
-// Alistair Campbell
-// Spring 2020
+// FILE: stack.h
+// AUTHOR: Alistair Campbell (professor-given code)
+// DATE: Spring 2020
 
 // This is the standard stack data structure.
 // This class defines a linked-list-based
