@@ -1,0 +1,12 @@
+---
+:id: 31590679
+:submitters:
+- :name: Zoe Carovano
+  :email: zcarovan@hamilton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-09 01:15:46.547848000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-08 18:15:46.547848000 Z
+:status: processed
+:score: 100.0
