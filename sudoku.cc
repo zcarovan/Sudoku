@@ -1,3 +1,7 @@
+// FILE: sudoku.cc
+// AUTHOR: Zoe Carovano
+// DATE: Spring 2020
+
 #include <iostream>
 #include <cassert>
 #include "sudokuboard.h"
