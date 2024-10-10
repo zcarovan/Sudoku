@@ -1,3 +1,7 @@
+// FILE: stack.cc
+// AUTHOR: Zoe Carovano
+// DATE: Spring 2020
+
 #include <iostream>
 #include <cassert>
 #include "stack.h"
