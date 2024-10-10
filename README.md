@@ -5,3 +5,8 @@ Created for Data Structures assignment in Spring 2020. All files written in full
 In order to run, first run make command to execute makefile.
 
 Then, run command ./
+
+```
+makefile
+./sudoku
+```
