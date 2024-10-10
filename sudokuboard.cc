@@ -1,4 +1,4 @@
-// FILE: sudoku.cc
+// FILE: sudokuboard.cc
 // AUTHOR: Zoe Carovano
 // DATE: Spring 2020
 
