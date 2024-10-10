@@ -1,3 +1,7 @@
+// FILE: sudokuboard.h
+// AUTHOR: Zoe Carovano
+// DATE: Spring 2020
+
 #ifndef SUDOKUBOARD_H
 #define SUDOKUBOARD_H
 
